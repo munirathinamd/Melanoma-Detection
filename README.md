@@ -3,10 +3,10 @@
 
 
 ## Table of Contents
-* [General Information](#general information)
-* [Technologies Used](#Technologies Used)
-* [Steps Followed](#Steps Followed)
-* [Conclusions](#Conclusions)
+* General Information
+* Technologies Used
+* Steps Followed
+* Conclusions
 
 
 ## General Information
