@@ -3,9 +3,9 @@
 
 
 ## Table of Contents
-* [General Information](#general-information)
-* [Technologies Used](#Technologies-Used)
-* [Steps Followed](#Steps-Followed)
+* [General Information](#general information)
+* [Technologies Used](#Technologies Used)
+* [Steps Followed](#Steps Followed)
 * [Conclusions](#Conclusions)
 
 
@@ -22,14 +22,14 @@
 - Squamous cell carcinoma
 - Vascular lesion
 
-## Technologies-Used
+## Technologies Used
 - Tensorflow      - Version : 2.9.2
 - numpy       - Version : 1.21.6
 - pandas      - Version : 1.3.5
 - matplotlib  - Version : 3.2.2
 - Augmentor
 
-## Steps-Followed
+## Steps Followed
 
 - Data Loading and Understanding
 - Dataset Creation
