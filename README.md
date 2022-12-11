@@ -39,7 +39,7 @@
 - Model 3 Building , training , Evaluation and Findings -- CNN Model with Augmentor to rectify imbalance class data
 
 ## Conclusions
-- Training accuracy is 96.42% and validation accuracy is 86.93 %
+- Training accuracy is 95.51% and validation accuracy is 87.3 %
 - After using Augmentor and treating imbalance of all classes, there is a significance improvement in the training and validation accuracy
 - More epochs can be added to increase the accuracy Further
 - Final model has no overfitting or underfitting
